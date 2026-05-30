@@ -28,8 +28,8 @@ Site_Flexbox/
 ## Como visualizar
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd Site_Flexbox
+# Clone o repositório
+git clone https://github.com/WilliamBassedone/site-para-clinica-medica.git
 ```
 
 Abra o `index.html` no navegador. Nenhuma dependência necessária.
